@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="true">LanguageDemo</string>
+    <string name="_ok" translatable="true">OK</string>
+    <string name="english" translatable="true">English</string>
+    <string name="hindi" translatable="true">Hindi</string>
+    <string name="tamil" translatable="true">Tamil</string>
+    <string name="telgu" translatable="true">Telugu</string>
+    <string name="language_change_alert" translatable="true">"Are you sure to change app language to "</string>
+    <string name="_cancel" translatable="true">Cancel</string>
+    <string name="_name" translatable="true">Name</string>
+    <string name="_name_value" translatable="true">Binny Android</string>
+    <string name="_colan" translatable="true">:</string>
+    <string name="_address" translatable="true">Address</string>
+    <string name="_address_value" translatable="true">Faridabad, Haryana</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="true">LanguageDemo</string>
+    <string name="_ok" translatable="true">సరే</string>
+    <string name="english" translatable="true">ఇంగ్లీష్</string>
+    <string name="hindi" translatable="true">హిందీ</string>
+    <string name="tamil" translatable="true">తమిళం</string>
+    <string name="telgu" translatable="true">తెలుగు</string>
+    <string name="language_change_alert" translatable="true">"మీరు ఖచ్చితంగా యాప్ భాషను మార్చాలనుకుంటున్నారా "</string>
+    <string name="_cancel" translatable="true">రద్దు చేయి</string>
+    <string name="_name" translatable="true">పేరు</string>
+    <string name="_name_value" translatable="true">బిన్నీ ఆండ్రాయిడ్</string>
+    <string name="_colan" translatable="true">:</string>
+    <string name="_address" translatable="true">చిరునామా</string>
+    <string name="_address_value" translatable="true">ఫరీదాబాద్, హర్యానా</string>
+
+</resources>

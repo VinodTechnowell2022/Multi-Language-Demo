@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="true">LanguageDemo</string>
+    <string name="_ok" translatable="true">சரி</string>
+    <string name="english" translatable="true">ஆங்கிலம்</string>
+    <string name="hindi" translatable="true">ஹிந்தி</string>
+    <string name="tamil" translatable="true">தமிழ்</string>
+    <string name="telgu" translatable="true">தெலுங்கு</string>
+    <string name="language_change_alert" translatable="true">"ஆப்ஸ் மொழியை கண்டிப்பாக மாற்ற விரும்புகிறீர்களா "</string>
+    <string name="_cancel" translatable="true">ரத்து செய்</string>
+    <string name="_name" translatable="true">பெயர்</string>
+    <string name="_name_value" translatable="true">பின்னி ஆண்ட்ராய்டு</string>
+    <string name="_colan" translatable="true">:</string>
+    <string name="_address" translatable="true">முகவரி</string>
+    <string name="_address_value" translatable="true">ஃபரிதாபாத், ஹரியானா</string>
+
+</resources>

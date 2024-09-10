@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="true">LanguageDemo</string>
+    <string name="_ok" translatable="true">ठीक है</string>
+    <string name="english" translatable="true">अंग्रेज़ी</string>
+    <string name="hindi" translatable="true">हिंदी</string>
+    <string name="tamil" translatable="true">तामिल</string>
+    <string name="telgu" translatable="true">तेलुगू</string>
+    <string name="language_change_alert" translatable="true">"क्या आप वाकई ऐप की भाषा बदलना चाहते हैं? "</string>
+    <string name="_cancel" translatable="true">रद्द करना</string>
+    <string name="_name" translatable="true">नाम</string>
+    <string name="_name_value" translatable="true">बिन्नी एंड्रॉइड</string>
+    <string name="_colan" translatable="true">:</string>
+    <string name="_address" translatable="true">पता</string>
+    <string name="_address_value" translatable="true">फ़रीदाबाद, हरियाणा</string>
+
+</resources>
